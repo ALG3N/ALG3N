@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Algen</h1>
 <h3 align="center">A passionate backend developer from Sweden</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al3n" alt="al3n" /></a> </p>
-
 - 🔭 I’m currently working on [VibrisBots](https://www.twitter.com/vibrisbots)
 
 - 🌱 I’m currently learning **Swift & SwiftUI**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al3n&show_icons=true&locale=en&layout=compact" alt="al3n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al3n&show_icons=true&locale=en" alt="al3n" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al3n&" alt="al3n" /></p>
