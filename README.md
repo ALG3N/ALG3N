@@ -2,11 +2,11 @@
 <h3 align="center">A passionate backend developer from Sweden</h3>
 
 
-- 🔭 I’m currently working on [VibrisBots](https://www.twitter.com/vibrisbots)
+- 🔭 I'm currenty not working on any project.
 
-- 🌱 I’m currently learning **Swift & SwiftUI**
+- 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **algen#0001 on discord**
+- 📫 How to reach me **algen#7315 on discord**
 
 - ⚡ Weird fact **I'm extremely allergic to nuts.**
 
