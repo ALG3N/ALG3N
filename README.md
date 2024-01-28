@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **algen#7315 on discord**
+- 📫 How to reach me **stjarnan on discord**
 
 - ⚡ Weird fact **I'm extremely allergic to nuts.**
 
