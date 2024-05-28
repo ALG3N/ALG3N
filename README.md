@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for coding
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alg3n&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?alg3n&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alg3n&layout=compact&theme=dracula)
 
 ## 🤝 Connect with Me
 
