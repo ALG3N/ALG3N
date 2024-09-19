@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Elliot!
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm a software developer with a passion for coding, learning new technologies, and building impactful projects. Here's a little bit about me:
 
