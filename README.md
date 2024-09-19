@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a software developer with a passion for coding
 ## 🌟 About Me
 
 - 💻 I’m currently working on a fin tech project for a client.
-- 📚 I’m currently learning C# and .NET.
 - 📫 How to reach me: sternehag.elliot@gmail.com.
 
 ## 🛠️ My Tech Stack
