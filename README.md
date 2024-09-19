@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm a software developer with a passion for coding, learning new technologies, and building impactful projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a software developer with a passion for coding, learning new technologies, and building impactful projects.
 
 ## 🌟 About Me
 
